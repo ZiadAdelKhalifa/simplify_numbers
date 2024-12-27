@@ -28,8 +28,3 @@ This project simplifies numerical data in text and enhances it with figurative c
 3. **`apply_rules_4_and_5(text)`**:
    - Combines simplifications and figurative explanations for a final enhanced output.
 
-## Example Input and Output
-
-### Input:
-```plaintext
-"324.620,22 Euro wurden gespendet."
